@@ -46,7 +46,7 @@ defmodule IntegerToIp.Mixfile do
           name: :integer_to_ip,
           files: ["lib","mix.exs"],
           maintainers: ["Jérémie Payet (jpcweb)"],
-          licences: ["MIT"],
+          licenses: ["MIT"],
           links: %{"Github" => "https://github.com/jpcweb/integer_to_ip.ex"}
       ]
     end
