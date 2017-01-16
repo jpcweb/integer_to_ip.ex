@@ -1,6 +1,6 @@
 # IntegerToIp
 
-**TODO: Add description**
+Integer to ip (and the opposite) for Elixir. This module helps you to get an ip into a integer (and the opposite)
 
 ## Installation
 
